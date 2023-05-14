@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans";
+  font-family: "Yeseva One", cursive;
+}
+
+body {
+  background-color: #fffaf3;
+}
+.conteiner {
+  width: 1264px;
+  height: 878px;
+  margin-left: 180px;
+  margin-right: 180px;
+  background-image: url(img/Image\ 1.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 660px auto;
+}
+header {
+  border-bottom: 1px solid #c08d5d;
+  width: 470px;
+  font-size: 20px;
+  padding-top: 43px;
+  padding-bottom: 42.5px;
+}
+div {
+  display: inline-block;
+  vertical-align: middle;
+}
+.hl {
+  margin-right: 83px;
+}
+.log {
+  display: inline-block;
+  height: 59px;
+  width: 38.64px;
+}
+nav a {
+  display: inline-block;
+  font-size: 20px;
+  text-align: left;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-family: "Open Sans";
+}
+.Home {
+  color: #c08d5d;
+  margin-right: 53px;
+}
+.About {
+  margin-right: 54px;
+}
+.column {
+  max-width: 535px;
+}
+h1 {
+  display: block;
+  font-family: "Yeseva One";
+  letter-spacing: 6%;
+  color: #3f4042;
+  line-height: 81px;
+  line-height: 100%;
+  font-size: 70px;
+  font-weight: 400;
+  font-style: normal;
+}
+span:after {
+  content: url(img/Logo.svg);
+  display: inline-block;
+  margin-top: 122.5px;
+  height: 45.21px;
+  width: 69.04px;
+}
+.volna {
+  width: 165px;
+  height: 9.03px;
+  margin-top: 45px;
+  margin-bottom: 25.97px;
+}
+.Parag {
+  font-family: "Open Sans";
+  color: #3f4042;
+  line-height: 27px;
+  letter-spacing: 6%;
+  font-size: 18px;
+  font-weight: 400;
+}
+span {
+  font-size: 50px;
+  line-height: 58px;
+}
+.button {
+  display: inline-block;
+  background-color: #fffaf3;
+  color: #3f4042;
+  text-decoration: none;
+  margin-top: 72px;
+  padding-left: 15px;
+  font-family: "Open Sans";
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 6%;
+  border: #c08d5d solid 1px;
+}
+.button::after {
+  content: url(img/Vector\ 2.svg);
+  display: inline-block;
+  width: 70px;
+  background-color: #c08d5d;
+  line-height: 64px;
+  text-align: center;
+  color: #ffffff;
+  margin-left: 11px;
+  content position:
+}
+.mouse {
+  display: block;
+  margin-top: 62.6px;
+  margin-bottom: 68.6px;
+  margin-left: 500px;
+}
